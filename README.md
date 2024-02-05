@@ -4,6 +4,6 @@
 
 **Academic year**: 2023/2024
 
-**Authors**: Matteo Marco Montanari, Giacomo Di Fabrizio
+**Authors**: Giacomo Di Fabrizio, Matteo Marco Montanari
 
 **Erlang website**: [Erlang.org](https://www.erlang.org/).
